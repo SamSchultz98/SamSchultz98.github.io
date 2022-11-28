@@ -1,0 +1,85 @@
+body {
+    background-image: var(--bs-gradient);
+    background-color: #e5e1db;
+    }
+  
+    h1 {
+      color: #528872;
+      text-align: center;
+      font-family: bernard mt,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-size: 25pt;
+    }
+  
+    h2 {
+      color: #528872;
+      font-family:  impact,Tahoma, Geneva, Verdana, sans-serif;
+      font-style: italic;
+      font: bold;
+      text-align: center;
+      font-size: 19pt;
+    }
+  
+    .mytable {
+      color: #725288;
+      border-collapse: separate;
+      width: max-content;
+      margin-left: 13.5%;
+      margin-right: auto;
+      border: 1pt solid;
+      border-color: #725288;
+      display:inline-table;
+      width:75%;
+      border: solid;
+      border-radius: 15px;
+      }
+  
+
+    td {
+      font-size: large;
+      border-left: none;
+      font-weight: bold;
+      border-color: #528872;
+    
+    }
+    
+    .fancy {
+      text-align: center;
+      font-style: italic;
+      font-family: gabriola, Arial, Helvetica, sans-serif;
+      color: #725288;
+      font-size: 20pt;
+      display: block;
+    }
+    
+    .restfont {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #725288;
+      font-size: large;
+      text-align: center;
+      list-style-position: inside;
+    }
+  
+    .finalfont {
+      font: bold;
+      font-family:Arial,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color: #725288;
+      font-style: italic;
+      text-align: center;
+      font-size: large;
+    }
+  
+    li {
+      font-style: normal;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-size: large;
+      color: #725288;
+  
+    }
+
+    .linkedin{
+      margin-left: 47.8%;
+      color: #725288;
+      font-size: larger;
+    }
+    
+  
